@@ -12,7 +12,7 @@
 	<input type="password" name="pw" id="pw" />
 	<button type="submit" id="btntest" name="btntest"> Submit Form</button>
 </form>
-
+	<?php echo CI_VERSION; ?>
 		<script type="text/javascript">
 			$(function() {
 				$("#ajaxtest").jCryption();

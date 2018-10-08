@@ -53,6 +53,7 @@
 				</table>
 			</fieldset>
 		</form>
+	
 		<script type="text/javascript">
 			$(function() {
 				$("#normal").jCryption();
